@@ -119,7 +119,3 @@ Ces fichiers restent dans le dossier racine si un historique technique est neces
 6. Correction qualite finale
    -> create_corrected_final_release.py
 ```
-
-## Note importante
-
-Ce dossier ne contient pas les donnees brutes ni les fichiers volumineux comme les PDF, ZIP ou bases SQLite. Il contient uniquement les scripts principaux du pipeline de collecte et preparation.
